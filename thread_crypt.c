@@ -1,4 +1,4 @@
-// mpenner@pdx.edu
+
 // Matthew Penner
 
 #include <stdio.h>
